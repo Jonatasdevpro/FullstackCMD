@@ -1,0 +1,4 @@
+@echo off
+echo Iniciando contêiner Docker simulado...
+echo [%date% %time%] Docker UP >> ..\..\logs\log.txt
+pause

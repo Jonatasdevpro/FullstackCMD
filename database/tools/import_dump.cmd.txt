@@ -1,0 +1,4 @@
+@echo off
+echo Rodando simulação de dump do banco...
+echo [%date% %time%] Dump executado >> ..\..\logs\log.txt
+pause
